@@ -6,11 +6,5 @@ export const parseUrlQuery = () => {
         for (const [key, value] of params.entries()) {
             query[key] = value;
         }
-
-console.log('when effect happened: ',query.meme);
-
-    return {query}
-
-    
-        
-    }
+    return {query}    
+}
