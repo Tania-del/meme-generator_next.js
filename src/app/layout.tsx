@@ -13,7 +13,6 @@ const karla = Karla({
   subsets: ['latin'],
   weight: ['400', '500', '700'],
   variable: '--font-karla',
-  
 })
 
 export const metadata: Metadata = {

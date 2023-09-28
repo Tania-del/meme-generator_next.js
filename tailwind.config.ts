@@ -14,7 +14,8 @@ const config: Config = {
       },
       letterSpacing: {
         'tight-text': '-2.075px'
-      }
+      },
+      fillCustomGradient: ['custom-gradient'],
     },
   },
   plugins: [],

@@ -38,7 +38,6 @@ line-height: normal;
 }
 
 .shared-text {
-  font-size: 32px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
@@ -56,6 +55,7 @@ line-height: normal;
    display: -webkit-box; 
   -webkit-line-clamp: 2; 
   -webkit-box-orient: vertical;
+  text-transform: uppercase;
   text-shadow:  2px 2px 0 #000,
       -2px -2px 0 #000,
       2px -2px 0 #000,
